@@ -1,0 +1,8 @@
+feature,kind
+visits,scaled_numeric
+recency,scaled_numeric
+engagement,scaled_numeric
+spend,scaled_numeric
+engineered_feature,scaled_numeric
+group_G1,unscaled_group_onehot
+group_G2,unscaled_group_onehot

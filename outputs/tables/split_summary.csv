@@ -1,0 +1,4 @@
+partition,n
+fit,192
+validation,48
+test,60
